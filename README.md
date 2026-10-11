@@ -25,5 +25,5 @@ An interactive Power BI dashboard analyzing 10,000 loan records to explore loan 
 Created relationships between five tables: `loans`, `customers`, `branches`, `installments`, and `transactions`.
 
 ## ✅ Conclusion
-This project demonstrates practical skills in Power BI, relational data modeling, and analyzing loan portfolio performance.<img width="947" height="532" alt="image" src="https://github.com/user-attachments/assets/f409c88d-efb0-44a8-b8a8-6267248164a9" />
+This project demonstrates practical skills in Power BI, relational data modeling, and analyzing loan portfolio performance.
 
